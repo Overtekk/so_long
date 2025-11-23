@@ -42,7 +42,7 @@ https://github.com/Overtekk/so_long.git
 ```
 ### Compile with make
 ```bash
-`make`
+make
 ```
 ### Run the game with a valid map (.ber)
 *There are multiples maps created in the folder `maps`. Inside, there is a folder with invalid maps in case you wanna test.*\
