@@ -32,7 +32,11 @@ Create a game where the player's goal is to collect all collectibles on the map,
 
 ## 🐨 Status
 
-Not completed yet.
+Completed on **05/12/2025** with **1/3** bonus.\
+*- Add steps count on screen*
+<p align="left">
+  <img src="assets_github/so_long_score.png" width="150" />
+</p>
 
 ## 🔷 Usage
 
